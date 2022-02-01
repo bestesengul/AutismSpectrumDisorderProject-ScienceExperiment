@@ -4,4 +4,6 @@ This project is a research project led by Sultan Turhan (Ph.D.) and Esra Akgül 
 
 Within the scope of the project, a game based educational application simulating Science experiments is first developed.
 
+The educational application is developped with Unity by @BarisKilicGsu, @loradow, @bestesengul
+
 Thanks @MuhammedErdogan for his important contributions.

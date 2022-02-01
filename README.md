@@ -4,7 +4,7 @@ This project is a research project led by Sultan Turhan (Ph.D.) and Esra Akgül 
 
 Within the scope of the project, a game based educational application simulating Science experiments is first developed.
 
-The educational application is developped with Unity by @Barış Kılıç, Beste Şengül and Berkay Sarıalioğlu.
+The educational application is developped with Unity by Barış Kılıç, Beste Şengül and Berkay Sarıalioğlu.
 
 Thanks Muhammed Erdoğan for his important contributions.
 
